@@ -8,6 +8,9 @@
         text-align: center;
         background:  #CCCCCCC; 
 }
+em strong {
+        color: red; 
+}
 
         h1 {
             background:  #CCCCCCC;
