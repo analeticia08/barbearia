@@ -1,9 +1,7 @@
   body {
      background: #CCCCCCC;
  }  
-    
-    
-    
+      
  p {
         text-align: center;
         background:  #CCCCCCC; 
@@ -12,10 +10,4 @@ em strong {
         color: red; 
 }
 
-        h1 {
-            background:  #CCCCCCC;
- }
-
-        body {
-        background: #CCCCCCC
-}
+       
