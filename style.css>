@@ -1,4 +1,18 @@
-    p{
+  body {
+     background: #CCCCCCC;
+ }  
+    
+    
+    
+ p {
         text-align: center;
-        background:  #CCCCCC;
-        }
+        background:  #CCCCCCC; 
+}
+
+        h1 {
+            background:  #CCCCCCC;
+ }
+
+        body {
+        background: #CCCCCCC
+}
