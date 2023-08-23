@@ -1,13 +1,10 @@
-  body {
-     background: #CCCCCCC;
- }  
-      
- p {
-        text-align: center;
-        background:  #CCCCCCC; 
+ body {
+background: #CCCCCC;
+}
+p {
+text-align: center;
+background: #CCCCCC;
 }
 em strong {
-        color: red; 
+color: red;
 }
-
-       
