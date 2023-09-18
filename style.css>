@@ -1,5 +1,4 @@
  body {
-background: #CCCCCC;
 }
 
 #banner {
@@ -22,8 +21,9 @@ em strong {
  color:#ffoooo;
 }
 
-em strong {
- color:red;
+ .benefícios {
+background: #FFFFFF;
+} 
 
  .itens{
  font-tyle: italic;
