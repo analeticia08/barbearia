@@ -24,3 +24,7 @@ em strong {
 
 em strong {
  color:red;
+
+ .itens{
+ font-tyle: italic;
+} 
