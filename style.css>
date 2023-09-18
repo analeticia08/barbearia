@@ -9,3 +9,18 @@ background: #CCCCCC;
 h1 {
  text-align: center;
 }
+
+p{
+ text-align: center;
+ background: #CCCCCC;
+}
+
+ #missão {
+ font-size:20px;
+}
+em strong {
+ color:#ffoooo;
+}
+
+em strong {
+ color:red;
